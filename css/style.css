@@ -1859,3 +1859,9 @@ footer .social-links {
     padding: 5px;
     box-shadow: 0 0px 0px 1px #eee;
 }
+
+/*padding bottom top 25 px*/
+
+.pbt-5 {
+    padding: 25px 0px 25px 0px;
+}
